@@ -1,0 +1,3 @@
+
+class EnterValue:
+    value = 'indriy'
